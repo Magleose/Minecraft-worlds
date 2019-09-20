@@ -1,0 +1,33 @@
+{
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime": "2019-07-31 23:09:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2019-07-31 23:06:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp": {
+    "criteria": {
+      "has_dried_kelp_block": "2019-07-31 23:05:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp_block": "2019-07-31 23:05:50 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2019-07-31 22:48:15 -0400"
+    },
+    "done": false
+  },
+  "DataVersion": 1962
+}
